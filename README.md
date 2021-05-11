@@ -1,1 +1,2 @@
-# LeetCode-
+# LeetCode习题代码
+本仓库为在LeetCode网站所做的习题代码记录
